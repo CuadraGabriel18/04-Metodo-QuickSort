@@ -1,0 +1,30 @@
+
+    body {
+      background-color: #E6E6FA; /* Color de fondo  */
+      text-align: center; /* Centrar el contenido */
+    }
+
+    h1 {
+      color: #800080; /* Color para el título */
+    }
+
+    label {
+      color: #800080; /* Color para la etiqueta */
+    }
+
+    input[type="text"] {
+      padding: 5px;
+    }
+
+    button {
+      background-color: #800080; /* Color para el botón */
+      color: white;
+      padding: 5px 10px;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #993399; /* Cambio de color al pasar el mouse */
+    }
+  
